@@ -1,2 +1,2 @@
 # Music-Player
-An Implementation of various Data Structure(Linked list, Stack, Queue, etc. ) to create a basic functional Media Player in C and Python Language.
+An Implementation of various Data Structure(Linked list, Stack, Queue, etc. ) to create a basic functional Media Player in Python.
