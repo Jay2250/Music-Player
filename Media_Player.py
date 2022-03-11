@@ -176,7 +176,7 @@ def Play_song():
     
     while 1:
         song_name = input('Enter the Name of the Song\n')
-        song = 'D:/song/04. Favourite songs/'+ song_name +'.mp3'
+        song = 'D:/song/04. Favourite songs/'+ song_name +'.mp3'                    # Change According to the path where Songs are saved
         mixer.init()
         mixer.music.load(song)
         mixer.music.play()
